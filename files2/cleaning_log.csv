@@ -1,0 +1,301 @@
+id,action,reason
+tr-00008,drop,exact copy of a dev ticket (leakage)
+tr-00013,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00018,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00020,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00023,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00034,drop,"junk text (""test test 123"") with fabricated label"
+tr-00045,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00049,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00058,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00059,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00060,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00071,fix,txn_id not normalised (NP-9718716109)
+tr-00072,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00073,fix,"amount stored in rupees, converted to paise (168787 to 16878725)"
+tr-00077,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority medium violates SCHEMA rules, set to P2"
+tr-00086,drop,exact copy of a dev ticket (leakage)
+tr-00095,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00114,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00120,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00123,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00125,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00129,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00130,drop,exact copy of a dev ticket (leakage)
+tr-00144,fix,"amount stored in rupees, converted to paise (167 to 16700)"
+tr-00146,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00147,fix,txn_id not normalised (np9891267518)
+tr-00151,fix,txn_id not normalised (NP-2339259875)
+tr-00153,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00154,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00156,drop,exact duplicate of an earlier train row
+tr-00160,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00162,drop,exact copy of a dev ticket (leakage)
+tr-00164,drop,"junk text (""test"") with fabricated label"
+tr-00167,fix,"amount stored in rupees, converted to paise (267 to 26700)"
+tr-00172,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00178,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00184,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00187,fix,"amount stored in rupees, converted to paise (220000 to 22000000)"
+tr-00192,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00199,fix,"amount stored in rupees, converted to paise (674 to 67400)"
+tr-00208,drop,exact duplicate of an earlier train row
+tr-00211,drop,exact duplicate of an earlier train row
+tr-00212,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00219,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00220,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00222,fix,"amount stored in rupees, converted to paise (594 to 59450)"
+tr-00223,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00225,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00226,drop,exact duplicate of an earlier train row
+tr-00249,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority medium violates SCHEMA rules, set to P2"
+tr-00258,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00261,drop,exact copy of a dev ticket (leakage)
+tr-00263,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00264,fix,"amount stored in rupees, converted to paise (702 to 70200)"
+tr-00266,drop,exact copy of a dev ticket (leakage)
+tr-00267,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00280,drop,exact copy of a dev ticket (leakage)
+tr-00294,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00297,drop,exact duplicate of an earlier train row
+tr-00306,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00309,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00312,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00317,drop,exact copy of a dev ticket (leakage)
+tr-00318,drop,"junk text ("""") with fabricated label"
+tr-00320,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00328,fix,"amount stored in rupees, converted to paise (667 to 66750)"
+tr-00330,drop,exact copy of a dev ticket (leakage)
+tr-00346,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00347,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00349,drop,exact duplicate of an earlier train row
+tr-00355,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00357,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00364,drop,exact duplicate of an earlier train row
+tr-00365,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00370,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00373,drop,exact duplicate of an earlier train row
+tr-00379,drop,exact copy of a dev ticket (leakage)
+tr-00380,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00382,fix,"amount stored in rupees, converted to paise (46094 to 4609400)"
+tr-00385,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00391,fix,txn_id not normalised (NP 9255627510)
+tr-00407,fix,"amount stored in rupees, converted to paise (359 to 35900)"
+tr-00413,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00420,fix,txn_id not normalised (np 81633 47892)
+tr-00424,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00427,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00436,drop,exact duplicate of an earlier train row
+tr-00452,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00454,drop,exact duplicate of an earlier train row
+tr-00457,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00460,fix,txn_id not normalised (NP 6949410784)
+tr-00461,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00470,fix,txn_id not normalised (np 11245 46709)
+tr-00472,fix,"amount stored in rupees, converted to paise (5815 to 581500)"
+tr-00475,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00476,drop,exact duplicate of an earlier train row
+tr-00478,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00485,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00496,drop,exact copy of a dev ticket (leakage)
+tr-00497,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00502,drop,exact duplicate of an earlier train row
+tr-00503,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00505,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00508,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00514,drop,exact copy of a dev ticket (leakage)
+tr-00516,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00523,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00532,drop,exact duplicate of an earlier train row
+tr-00533,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00534,drop,exact duplicate of an earlier train row
+tr-00546,drop,exact duplicate of an earlier train row
+tr-00555,drop,"junk text (""test test 123"") with fabricated label"
+tr-00556,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00558,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00559,drop,exact copy of a dev ticket (leakage)
+tr-00560,fix,"amount stored in rupees, converted to paise (1100 to 110000)"
+tr-00567,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00570,fix,txn_id not normalised (np 87267 97611)
+tr-00573,drop,exact duplicate of an earlier train row
+tr-00577,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00585,drop,exact copy of a dev ticket (leakage)
+tr-00589,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00595,fix,txn_id not normalised (np3247474643)
+tr-00602,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00605,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00606,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00609,drop,exact copy of a dev ticket (leakage)
+tr-00610,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00622,fix,"amount stored in rupees, converted to paise (3702 to 370200)"
+tr-00628,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00638,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00648,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00649,fix,txn_id not normalised (NP-8919677483)
+tr-00653,fix,"amount stored in rupees, converted to paise (1179 to 117900)"
+tr-00656,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00665,drop,exact duplicate of an earlier train row
+tr-00669,drop,exact copy of a dev ticket (leakage)
+tr-00670,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority medium violates SCHEMA rules, set to P2"
+tr-00674,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00677,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00685,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00688,fix,"amount stored in rupees, converted to paise (209 to 20900)"
+tr-00689,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00691,fix,"amount stored in rupees, converted to paise (678 to 67800)"
+tr-00701,drop,exact duplicate of an earlier train row
+tr-00704,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00706,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00707,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00716,drop,exact duplicate of an earlier train row
+tr-00717,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00727,fix,"amount stored in rupees, converted to paise (17914 to 1791499)"
+tr-00735,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00744,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-00745,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00746,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00757,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00761,drop,exact duplicate of an earlier train row
+tr-00765,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00771,fix,txn_id not normalised (np9038808761)
+tr-00773,drop,exact duplicate of an earlier train row
+tr-00778,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00782,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00783,drop,exact duplicate of an earlier train row
+tr-00789,drop,exact copy of a dev ticket (leakage)
+tr-00790,drop,"junk text (""asdf asdf"") with fabricated label"
+tr-00791,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00794,drop,"junk text (""test test 123"") with fabricated label"
+tr-00795,fix,"amount stored in rupees, converted to paise (34300 to 3430000)"
+tr-00800,drop,exact duplicate of an earlier train row
+tr-00802,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00809,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00811,drop,exact duplicate of an earlier train row
+tr-00820,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-00824,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00838,fix,txn_id not normalised (NP 6186175115)
+tr-00839,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority medium violates SCHEMA rules, set to P2"
+tr-00840,drop,exact copy of a dev ticket (leakage)
+tr-00843,drop,exact duplicate of an earlier train row
+tr-00845,fix,"amount stored in rupees, converted to paise (2999 to 299900)"
+tr-00846,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00852,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00879,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00880,drop,exact duplicate of an earlier train row
+tr-00888,fix,txn_id not normalised (np7786684387)
+tr-00890,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-00899,fix,txn_id not normalised (NP-1325500121)
+tr-00907,drop,exact copy of a dev ticket (leakage)
+tr-00908,fix,txn_id not normalised (np 45856 96868)
+tr-00913,drop,exact duplicate of an earlier train row
+tr-00920,fix,"amount stored in rupees, converted to paise (853 to 85300)"
+tr-00922,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-00932,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-00933,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00936,drop,exact duplicate of an earlier train row
+tr-00941,drop,exact copy of a dev ticket (leakage)
+tr-00958,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00960,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00967,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-00968,drop,exact duplicate of an earlier train row
+tr-00975,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00977,drop,exact duplicate of an earlier train row
+tr-00978,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00979,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00980,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-00985,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-00986,fix,"amount stored in rupees, converted to paise (1975 to 197500)"
+tr-00987,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01000,drop,exact duplicate of an earlier train row
+tr-01001,drop,exact copy of a dev ticket (leakage)
+tr-01006,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01011,drop,exact duplicate of an earlier train row
+tr-01012,fix,txn_id not normalised (np 78549 05014)
+tr-01017,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01019,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01023,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01028,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01030,drop,exact duplicate of an earlier train row
+tr-01032,drop,"junk text (""test"") with fabricated label"
+tr-01044,drop,exact duplicate of an earlier train row
+tr-01046,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority medium violates SCHEMA rules, set to P2"
+tr-01048,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-01067,drop,exact duplicate of an earlier train row
+tr-01070,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-01083,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-01085,drop,exact duplicate of an earlier train row
+tr-01086,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01087,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-01089,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01093,drop,exact duplicate of an earlier train row
+tr-01095,fix,"amount stored in rupees, converted to paise (592 to 59200)"
+tr-01104,drop,exact duplicate of an earlier train row
+tr-01108,drop,exact duplicate of an earlier train row
+tr-01109,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-01115,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-01131,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-01133,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-01134,drop,exact duplicate of an earlier train row
+tr-01135,drop,exact duplicate of an earlier train row
+tr-01136,fix,txn_id not normalised (NP 5804974985)
+tr-01139,drop,exact duplicate of an earlier train row
+tr-01141,drop,exact duplicate of an earlier train row
+tr-01143,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-01146,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-01151,fix,"v1 schema (prio low/medium/high) converted to v2; priority high violates SCHEMA rules, set to P1"
+tr-01158,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-01160,drop,exact copy of a dev ticket (leakage)
+tr-01166,drop,"junk text (""asdf asdf"") with fabricated label"
+tr-01170,drop,exact copy of a dev ticket (leakage)
+tr-01176,drop,exact duplicate of an earlier train row
+tr-01178,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-01183,drop,exact duplicate of an earlier train row
+tr-01186,drop,exact copy of a dev ticket (leakage)
+tr-01188,fix,txn_id not normalised (np0530288495)
+tr-01199,fix,truncated JSON rebuilt from surviving prefix + rules
+tr-01202,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01204,drop,exact duplicate of an earlier train row
+tr-01206,drop,exact copy of a dev ticket (leakage)
+tr-01222,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-01238,fix,txn_id not normalised (NP-7739480420)
+tr-01239,drop,exact duplicate of an earlier train row
+tr-01246,drop,exact duplicate of an earlier train row
+tr-01248,drop,exact duplicate of an earlier train row
+tr-01250,drop,exact duplicate of an earlier train row
+tr-01260,drop,exact duplicate of an earlier train row
+tr-01274,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-01275,drop,exact duplicate of an earlier train row
+tr-01286,fix,"v1 schema (prio low/medium/high) converted to v2; priority medium violates SCHEMA rules, set to P2"
+tr-01301,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01304,drop,"junk text (""test"") with fabricated label"
+tr-01305,fix,"priority P3 violates SCHEMA rules, set to P2"
+tr-01309,drop,exact copy of a dev ticket (leakage)
+tr-01311,fix,"amount stored in rupees, converted to paise (497 to 49799)"
+tr-01313,drop,exact copy of a dev ticket (leakage)
+tr-01314,drop,"junk text (""asdf asdf"") with fabricated label"
+tr-01319,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01326,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01331,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01339,drop,exact copy of a dev ticket (leakage)
+tr-01343,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority low violates SCHEMA rules, set to P3"
+tr-01349,drop,exact copy of a dev ticket (leakage)
+tr-01355,fix,"amount stored in rupees, converted to paise (467 to 46700)"
+tr-01359,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01363,fix,txn_id not normalised (np 25586 43472)
+tr-01366,fix,"v1 schema (prio low/medium/high) converted to v2; dd/mm/yyyy date to ISO; priority high violates SCHEMA rules, set to P1"
+tr-01370,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01375,fix,"amount stored in rupees, converted to paise (31855 to 3185500)"
+tr-01381,drop,exact duplicate of an earlier train row
+tr-01386,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01393,drop,exact duplicate of an earlier train row
+tr-01398,drop,exact duplicate of an earlier train row
+tr-01403,fix,"priority P3 violates SCHEMA rules, set to P1"
+tr-01407,fix,"priority P1 violates SCHEMA rules, set to P3"
+tr-01409,drop,exact duplicate of an earlier train row
+tr-01413,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01419,drop,exact duplicate of an earlier train row
+tr-01421,drop,exact copy of a dev ticket (leakage)
+tr-01427,drop,exact duplicate of an earlier train row
+tr-01433,drop,exact duplicate of an earlier train row
+tr-01441,fix,"v1 schema (prio low/medium/high) converted to v2; priority low violates SCHEMA rules, set to P3"
+tr-01443,drop,exact duplicate of an earlier train row
